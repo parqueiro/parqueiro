@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @parqueiro
+- 👋 Hi, I’m Victor Gomes
 - 👀 I’m interested in theme park & archtecture
 - 🌱 I’m currently learning about technology and more things about this 
-- 💞️ I’m looking to collaborate on Disneyland 
+- 💞️ I’m looking to collaborate on Disneyland, this is my dream 
 - 📫 How to reach me uservictorgomes@gmail.com
 
 <!---
